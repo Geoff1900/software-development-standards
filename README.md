@@ -1,8 +1,8 @@
 # GIG Cymru NHS Wales - Software development standards
 
-[![mkdocs](https://github.com/GIG-Cymru-NHS-Wales/software-development-standards/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/Architecture-Decision-Records/actions/workflows/publish.yml)
+[![mkdocs](https://github.com/Geoff1900/software-development-standards/software-development-standards/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/software-development-standards/actions/workflows/publish.yml)
 
-This documents in this repository are published to [https://gig-cymru-nhs-wales.github.io/software-development-standards/](https://gig-cymru-nhs-wales.github.io/software-development-standards/).
+This documents in this repository are published to [https://github.com/Geoff1900/software-development-standards/](https://github.com/Geoff1900/software-development-standards/).
 
 
 ## Introduction
