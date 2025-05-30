@@ -1,7 +1,7 @@
 site_name: GIG Cymru NHS Wales - Software development handbook
 site_description: >
   GIG Cymru NHS Wales Software Development Handbook provides guidance on software development standards, practices, and tools to ensure high-quality software delivery.
-site_url: https://geoff1900.github.io/
+site_url: https://geoff1900.github.io/software-development-standards/
 repo_url: https://github.com/Geoff1900/software-development-standards/
 docs_dir: doc
 edit_uri: edit/main/doc/
