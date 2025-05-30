@@ -1,4 +1,4 @@
-# GIG Cymru NHS Wales - Software development handbook
+# GIG Cymru NHS Wales - Software development standards
 
 [![mkdocs](https://github.com/GIG-Cymru-NHS-Wales/software-development-standards/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/Architecture-Decision-Records/actions/workflows/publish.yml)
 
@@ -66,6 +66,6 @@ uv run mkdocs serve
 
 Navigate to ``http://127.0.0.1:8000/``
 
-## License
+## Licence
 
 This repository is licensed under the [MIT License](LICENSE)
