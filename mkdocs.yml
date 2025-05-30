@@ -10,8 +10,6 @@ extra_css:
 theme:
   name: material
   custom_dir: doc/overrides
-  static_templates:
-    - 404.html
   logo: assets/logo.png
   favicon: assets/favicon.ico
   icon:
