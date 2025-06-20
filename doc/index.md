@@ -9,6 +9,10 @@ When you're building software, especially in healthcare, good guidance really ma
 
 A handbook brings together all the important know-how: how to write clear, secure code; how to manage changes properly; how to work well across teams; and how to meet the expectations of modern software development.
 
+### Why have a handbook?
+
+When you're building software, especially in healthcare, good guidance really matters. It helps everyone work in a consistent way, so the code is easier to understand, safer, and more reliable. 
+
 It's there to help you make good decisions, avoid mistakes, and deliver software that others can trust and build on.
 
 !!! rfc-terms "Terminology and Requirements"
