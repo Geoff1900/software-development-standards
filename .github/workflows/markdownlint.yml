@@ -1,4 +1,9 @@
-on: [pull_request]
+on:
+  push:
+    branches:
+      - test
+  pull_request:
+
 
 jobs:
   lint:

@@ -4,7 +4,7 @@ name: mkdocs
 on:
   push:
     branches:
-      - main
+      - test
 
 permissions:
   contents: write
