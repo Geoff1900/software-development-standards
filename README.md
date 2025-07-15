@@ -2,16 +2,15 @@
 
 [![mkdocs](https://github.com/Geoff1900/software-development-standards/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/software-development-standards/actions/workflows/publish.yml)
 
-
 The documents in this repository are published to [https://geoff1900.github.io/software-development-standards](https://geoff1900.github.io/software-development-standards/).
 
-### Introduction
+## Introduction
 
-When you're building software, especially in healthcare, good guidance really matters. It helps everyone work in a consistent way, so the code is easier to understand, safer, and more reliable. 
+When you're building software, especially in healthcare, good guidance really matters. It helps everyone work in a consistent way, so the code is easier to understand, safer, and more reliable.
 
-A handbook brings together all the important know-how: how to write clear, secure code; how to manage changes properly; how to work well across teams; and how to meet the expectations of modern software development. 
+A handbook brings together all the important know-how: how to write clear, secure code; how to manage changes properly; how to work well across teams; and how to meet the expectations of modern software development.
 
-It's there to help you make good decisions, avoid mistakes, and deliver software that others can trust and build on.   
+It's there to help you make good decisions, avoid mistakes, and deliver software that others can trust and build on.
 
 ## Getting Started
 
