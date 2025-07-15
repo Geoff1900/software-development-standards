@@ -15,7 +15,8 @@ jobs:
     - uses: tj-actions/changed-files@v46
       id: changed-files
       with:
-        files: 'doc/**/*.md'
+        #files: 'doc/**/*.md'
+        files: '**/*.md'
         separator: ","
     - uses: DavidAnson/markdownlint-cli2-action@v19
       if: steps.changed-files.outputs.any_changed == 'true'
