@@ -5,7 +5,7 @@
 
 The documents in this repository are published to [https://geoff1900.github.io/software-development-standards](https://geoff1900.github.io/software-development-standards/).
 
-## Introduction
+### Introduction
 
 When you're building software, especially in healthcare, good guidance really matters. It helps everyone work in a consistent way, so the code is easier to understand, safer, and more reliable. 
 
