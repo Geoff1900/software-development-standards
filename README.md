@@ -1,4 +1,5 @@
-#### GIG Cymru NHS Wales - Software development standards
+# GIG Cymru NHS Wales - Software development standards
+# GIG Cymru NHS Wales - Software development standards
 
 [![mkdocs](https://github.com/Geoff1900/software-development-standards/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/software-development-standards/actions/workflows/publish.yml)
 
