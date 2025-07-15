@@ -1,15 +1,17 @@
-# GIG Cymru NHS Wales - Architecture Decision Records
+# GIG Cymru NHS Wales - Software development standards
 
-[![mkdocs](https://github.com/GIG-Cymru-NHS-Wales/architecture-decision-records/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/architecture-decision-records/actions/workflows/publish.yml)
+[![mkdocs](https://github.com/Geoff1900/software-development-standards/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/software-development-standards/actions/workflows/publish.yml)
 
-The documents in this repository are published to [https://gig-cymru-nhs-wales.github.io/architecture-decision-records/](https://gig-cymru-nhs-wales.github.io/architecture-decision-records/).
 
-An Architecture Decision Record (ADR) is a document that captures an important architecture decision made along with its context and consequences.
+The documents in this repository are published to [https://geoff1900.github.io/software-development-standards](https://geoff1900.github.io/software-development-standards/).
 
 ## Introduction
 
-* [Why write architecture decision records - By GitHub Engineering](https://github.blog/engineering/architecture-optimization/why-write-adrs/)
-* [A practical overview on Architecture Decision Records](https://ctaverna.github.io/adr/)
+When you're building software, especially in healthcare, good guidance really matters. It helps everyone work in a consistent way, so the code is easier to understand, safer, and more reliable. 
+
+A handbook brings together all the important know-how: how to write clear, secure code; how to manage changes properly; how to work well across teams; and how to meet the expectations of modern software development. 
+
+It's there to help you make good decisions, avoid mistakes, and deliver software that others can trust and build on.
 
 ## Getting Started
 
@@ -19,7 +21,7 @@ There are several ways to set up your development environment:
 
 The fastest way to start contributing:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GIG-Cymru-NHS-Wales/architecture-decision-records?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GIG-Cymru-NHS-Wales/software-development-standards?quickstart=1)
 
 This provides:
 
@@ -56,8 +58,8 @@ is faster on subsequent launches as the environment is then cached.
 Clone the repository:
 
 ```bash
-    git clone https://github.com/GIG-Cymru-NHS-Wales/architecture-decision-records.git
-    cd architecture-decision-records
+    git clone https://github.com/GIG-Cymru-NHS-Wales/software-development-standards.git
+    cd software-development-standards
 ```
 
 Install uv (if not already installed):
@@ -130,6 +132,6 @@ Our documentation is built using [Material for MkDocs](https://squidfunk.github.
 4. Test your changes locally
 5. Submit a Pull Request
 
-## License
+## Licence
 
-This repository is licensed under the [MIT License](LICENSE)
+This repository is licensed under the [MIT Licence](LICENCE)
