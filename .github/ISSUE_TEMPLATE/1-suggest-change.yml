@@ -31,4 +31,5 @@ body:
     attributes:
       label: Why is this change useful? (optional)
       description: Optional — who benefits and how?
-      placeholder: e.g. This would help new contributors who are unsure how to start working on a changes.
+      placeholder: e.g. This would help new contributors who are unsure how to start working on a change.
+      
