@@ -46,6 +46,10 @@ There is one issue form:
 
 - **Suggest a change** — use this for ideas, questions, proposed updates, or anything that is not yet ready for a pull request
 
+For very small fixes — a typo, a broken link, or a formatting error — you can skip the issue and go straight to a pull request.
+
+If you're not sure where to start, look for issues labelled [good first issue](https://github.com/GIGCymru/dhcw-software-engineering-handbook/labels/good%20first%20issue).
+
 Use the issue to explain:
 
 - what you want to change
@@ -55,9 +59,18 @@ Use the issue to explain:
 
 ### 2. Make your change
 
-Fork the repository, create a feature branch, then edit the relevant file.
-
 Keep changes small and focused where possible.
+
+**If you're a DHCW colleague (GIGCymru org member),** clone the repository directly and create a feature branch:
+
+```
+git clone https://github.com/GIGCymru/dhcw-software-engineering-handbook.git
+
+git checkout -b feature/your-change-description
+```
+If you don't yet have access to the GIGCymru GitHub organisation, contact the Head of Software Engineering to request it.
+
+**If you're an external contributor,** fork the repository on GitHub first, then clone your fork and create a feature branch.
 
 ### 3. Check it locally
 
@@ -121,6 +134,12 @@ Please avoid:
 - personal opinions presented as policy
 - internal process details that are not relevant to readers
 
+## Use of AI tools
+
+We welcome contributions where AI tools have helped with drafting or editing content.
+
+You're responsible for reviewing and validating everything in your pull request. Don't submit AI-generated content without reading and checking it yourself first.
+
 ## Accessibility and inclusive language
 
 Please make content accessible to everyone.
@@ -157,17 +176,9 @@ Maintainers will review pull requests for:
 
 A pull request may be merged once it has the necessary approvals and checks.
 
-## Code of conduct
-
-This repository follows the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-Please be respectful, constructive, and professional in all discussions.
-
 ## Security issues
 
-Do not report security vulnerabilities in a public issue or pull request.
-
-If you find a security issue, do not report it in a public issue or pull request. Please contact the DHCW security team directly.
+Do not report security vulnerabilities in a public issue or pull request. Contact the DHCW security team directly.
 
 ## Thank you
 
